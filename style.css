@@ -1,0 +1,31 @@
+
+.containerCalculator {
+    width: 300px;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    padding: 10px;
+    background: #f9f9f9;
+}
+
+.display {
+    border: 1px solid #ccc;
+    height: 50px;
+    margin-bottom: 10px;
+    text-align: right;
+    padding: 5px;
+    background: #fff;
+}
+
+.calculatorButtons {
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    background: #f0f0f0;
+}
+
+.calculatorButtons:hover {
+    background: #e0e0e0;
+}
